@@ -47,7 +47,7 @@ En esta Homework podrás poner en práctica:
 
 ### **📍 HOMEWORK**
 
-En esta homework recibirás una serie de funciones que deben cumplir con las espeficicaciones. Dependiendo la función deberás utilizar condicionales, operadores de comparación, operadores lógicos y/o bucles.
+En esta homewor recibirás una serie de funciones que deben cumplir con las espeficicaciones. Dependiendo la función deberás utilizar condicionales, operadores de comparación, operadores lógicos y/o bucles.
  
 ---
 
